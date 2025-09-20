@@ -2,7 +2,7 @@ AutoDebug_AI – Intelligent Python Debugging Assistant 🧑‍💻🤖
 🚀 Overview
 AutoDebug_AI is an AI-powered tool designed to automatically detect bugs and issues in Python code, providing actionable suggestions and detailed reports to help developers debug faster and smarter.
 
-📦 Key Features
+📦 Key Features:
 🔍 Automatic Bug Detection: Scans your Python scripts for errors, warnings, and potential issues.
 🤖 AI Suggestions: Smart recommendations to fix bugs, optimize code, and improve quality.
 📑 Detailed Reports: Generates an easy-to-read debug report (ai_report.py) with explanations and solutions.
@@ -32,3 +32,4 @@ Open a Pull Request
 
 🙌 Acknowledgements
 Special thanks to the open-source community and all contributors!
+
